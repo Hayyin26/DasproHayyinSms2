@@ -19,5 +19,8 @@ public class BukuMain25 {
         Buku25 bk2 = new Buku25("Self reward", "Maheera Ayesha", 160, 29, 59000);
         bk2.terjual(11);
         bk2.tampilInformasi();
+
+        Buku25 Hayyin = new Buku25("Solo Leveling", "Chu-Gong", 189, 40, 99999);
+        Hayyin.tampilInformasi();
     }
 }
