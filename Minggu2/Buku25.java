@@ -4,7 +4,7 @@ public class Buku25 {
     String judul, pengarang;
     int halaman, stok, harga;
 
-    public static void tampilInformasi() {
+    void tampilInformasi() {
         System.out.println("Judul: " + judul);
         System.out.println("Pengarang: " + pengarang);
         System.out.println("Jumlah halaman: " + halaman);
