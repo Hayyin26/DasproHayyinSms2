@@ -28,7 +28,6 @@ public class BukuMain25 {
         Hayyin.tampilInformasi();
         Hayyin.terjual(10);
         Hayyin.gantiHarga(65000);
-        Hayyin.tampilInformasi();
         Hayyin.hitungHargaTotal(5);
         Hayyin.hitungDiskon(Hayyin.total);
         Hayyin.hitungHargaBayar(Hayyin.Diskon, Hayyin.total);
